@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://embark-bam.netlify.app/sitemap.xml
