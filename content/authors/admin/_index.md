@@ -4,6 +4,7 @@ bio: Eating disorders researcher at UW-Madison and director of the EMBARK lab, c
 education: PhD - University at Albany, SUNY
 
 email: "kschaumberg@wisc.edu"
+courses:
 highlight_name: true
 interests:
 - Eating Disorders
